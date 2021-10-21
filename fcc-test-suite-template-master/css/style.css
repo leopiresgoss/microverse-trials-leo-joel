@@ -1,0 +1,9 @@
+   @media (min-width:1025px) {
+      body {
+        background-color: rgb(241, 239, 239);
+      }
+    }
+
+#welcome-section{
+height: 100vh;
+}
