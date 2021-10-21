@@ -6,4 +6,14 @@
 
 #welcome-section{
 height: 100vh;
+padding-top: 10rem;
+}
+
+body{
+scroll-behavior: smooth;
+}
+
+#navbar{
+position: fixed;
+width: 100%;
 }
